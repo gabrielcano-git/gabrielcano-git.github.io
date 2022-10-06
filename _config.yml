@@ -11,9 +11,9 @@ title                    : "Gabriel Cano"
 title_separator          : "-"
 name                     : &name "Gabriel Cano"
 description              : &description "personal description"
-url                      : https://gabrielcano.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://-git.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "gabrielcano-git/gabrielcano.github.io"
+repository               : "gabrielcano-git/gabrielcano-git.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -86,8 +86,7 @@ author:
   location         : "São Paulo, SP - Brasil"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "contato@gabrielcano.com.br"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
