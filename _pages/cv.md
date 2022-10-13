@@ -46,6 +46,9 @@ Skills
   * Wordpress
   * Laravel
   * Codeigniter
+* Database
+  * MySQL
+  * MariaDB
 
 Publications
 ======
