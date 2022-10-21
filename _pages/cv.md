@@ -30,12 +30,11 @@ Work experience
 * Fullstack Developer
   * 2nd
   * Oct 2011 - Oct 2022 · 11 yrs
-    * Desenvolvimento de sites responsivos com PHP, MySQL, HTML5 e WordPress.
-    * Atendimento ao cliente e planejamento de projetos.
+    * **Skills**: MySQLi · CodeIgniter · React.js · Next.js · jQuery · GatsbyJS · Vue.js · SASS · LESS (Stylesheet Language) · Tailwind CSS · styled-components · Accessibility · Node.js · Cascading Style Sheets (CSS) · WordPress · PHP · Bootstrap · Laravel · MySQL · JavaScript
 * Fullstack Developer
   * Marketing Chef
-  * jun 2017 - Jul 2018 · 14 mos
-    * Desenvolvimento de sites responsivos com PHP, MySQL, HTML5 e WordPress.
+  * jun 2017 - Jul 2018 · 1 yrs 2 mos
+    * **Skills**: MySQLi · CodeIgniter · jQuery · SASS · LESS (Stylesheet Language) · Accessibility · Cascading Style Sheets (CSS) · WordPress · PHP · Bootstrap · MySQL · JavaScript
 * Fullstack Developer
   * Dgrau 3
   * Ago 2018 - Jul 2019 · 11 mos
