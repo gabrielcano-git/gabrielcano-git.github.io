@@ -15,40 +15,39 @@ Education
 
 Work experience
 ======
-* Estagiario
-  * Farecar Comércio de Auto Peças
-  * nov de 2010 - feb de 2011 · 4 months
-    * Trabalhava nesta impresa, fazendo tratamento de imagens para o site.
-    * O motivo de meu desligamento da empresa, foi a questão de horário, não me era vantajoso, e nem para a empresa, pois não estava mais conseguindo consiliar estudos e trabalho.
-* Arte Finalista
-  * Gama 4
-  * apr de 2011 - may de 2011 · 2 months
-    * Descobri que não gostava de fazer
+* Web Designer
+  * Farecar Comércio de Auto Peças · Apprenticeship
+  * Nov 2010 - Feb 2011 · 4 mos
+    * **Skills**: Design · Adobe Photoshop · Photography
+* Graphic Designer
+  * Gama 4 · Apprenticeship
+  * Jun 2011 - Jul 2011 · 2 mos
+    * **Skills**: CorelDRAW
 * Web Master
   * Agência SI
-  * oct de 2011 - jul de 2012 · 9 months
-    * Desenvolvimento de sites responsivos com PHP, MySQL, HTML5 e WordPress.
+  * Oct 2011 - Jul 2012 · 10 mos
+    * **Skills**: HTML · Cascading Style Sheets (CSS) · Search Engine Optimization (SEO) · WordPress · PHP · MySQL
 * Fullstack Developer
   * 2nd
-  * oct de 2011 - oct de 2022 · 11 years
+  * Oct 2011 - Oct 2022 · 11 yrs
     * Desenvolvimento de sites responsivos com PHP, MySQL, HTML5 e WordPress.
     * Atendimento ao cliente e planejamento de projetos.
 * Fullstack Developer
   * Marketing Chef
-  * jun de 2017 - jul de 2018 · 14 months
+  * jun 2017 - Jul 2018 · 14 mos
     * Desenvolvimento de sites responsivos com PHP, MySQL, HTML5 e WordPress.
 * Fullstack Developer
   * Dgrau 3
-  * ago de 2018 - jul de 2019 · 11 months
+  * Ago 2018 - Jul 2019 · 11 mos
     * Desenvolvimento de sites responsivos com PHP, MySQL, HTML5 e WordPress.
 * Tech Lead
   * Mufasa
-  * jul de 2019 - jan de 2020 · 7 months
+  * Jul 2019 - jan 2020 · 7 mos
     * Desenvolvimento de sites responsivos com PHP, MySQL, HTML5 e WordPress.
     * Treinamento de pessoas e liderança tech.
 * Team Leader
   * Studio Visual
-  * jan de 2020 - o momento · 2 years 10 months
+  * Jan 2020 - Present
     * Gestão de times, projetos e liderança técnica.
 
 <!--
