@@ -18,36 +18,35 @@ Work experience
 * Web Designer
   * Farecar Comércio de Auto Peças · Apprenticeship
   * Nov 2010 - Feb 2011 · 4 mos
-    * **Skills**: Design · Adobe Photoshop · Photography
+  * **Skills**: Design · Adobe Photoshop · Photography
 * Graphic Designer
   * Gama 4 · Apprenticeship
   * Jun 2011 - Jul 2011 · 2 mos
-    * **Skills**: CorelDRAW
+  * **Skills**: CorelDRAW
 * Web Master
-  * Agência SI
+  * Agência SI · Full-time
   * Oct 2011 - Jul 2012 · 10 mos
-    * **Skills**: HTML · Cascading Style Sheets (CSS) · Search Engine Optimization (SEO) · WordPress · PHP · MySQL
+  * **Skills**: HTML · Cascading Style Sheets (CSS) · Search Engine Optimization (SEO) · WordPress · PHP · MySQL
 * Fullstack Developer
-  * 2nd
+  * 2nd · Full-time and Part-time
   * Oct 2011 - Oct 2022 · 11 yrs
-    * **Skills**: MySQLi · CodeIgniter · React.js · Next.js · jQuery · GatsbyJS · Vue.js · SASS · LESS (Stylesheet Language) · Tailwind CSS · styled-components · Accessibility · Node.js · Cascading Style Sheets (CSS) · WordPress · PHP · Bootstrap · Laravel · MySQL · JavaScript
+  * **Skills**: MySQLi · CodeIgniter · React.js · Next.js · jQuery · GatsbyJS · Vue.js · SASS · LESS (Stylesheet Language) · Tailwind CSS · styled-components · Accessibility · Node.js · Cascading Style Sheets (CSS) · WordPress · PHP · Bootstrap · Laravel · MySQL · JavaScript
 * Fullstack Developer
-  * Marketing Chef
-  * jun 2017 - Jul 2018 · 1 yrs 2 mos
-    * **Skills**: MySQLi · CodeIgniter · jQuery · SASS · LESS (Stylesheet Language) · Accessibility · Cascading Style Sheets (CSS) · WordPress · PHP · Bootstrap · MySQL · JavaScript
+  * Marketing Chef · Full-time
+  * Jun 2017 - Jul 2018 · 1 yrs 2 mos
+  * **Skills**: MySQLi · CodeIgniter · jQuery · SASS · LESS (Stylesheet Language) · Accessibility · Cascading Style Sheets (CSS) · WordPress · PHP · Bootstrap · MySQL · JavaScript
 * Fullstack Developer
-  * Dgrau 3
+  * Dgrau 3 · Full-time
   * Ago 2018 - Jul 2019 · 11 mos
-    * Desenvolvimento de sites responsivos com PHP, MySQL, HTML5 e WordPress.
+  * **Skills**: MySQLi · CodeIgniter · React.js · jQuery · SASS · LESS (Stylesheet Language) · Accessibility · Node.js · Cascading Style Sheets (CSS) · WordPress · PHP · Bootstrap · Laravel · MySQL · JavaScript
 * Tech Lead
-  * Mufasa
-  * Jul 2019 - jan 2020 · 7 mos
-    * Desenvolvimento de sites responsivos com PHP, MySQL, HTML5 e WordPress.
-    * Treinamento de pessoas e liderança tech.
+  * Mufasa · Full-time
+  * jul de 2019 - jan de 2020 · 7 months
+  * **Skills**: MySQLi · CodeIgniter · React.js · Next.js · jQuery · GatsbyJS · Vue.js · SASS · LESS (Stylesheet Language) · Tailwind CSS · styled-components · Accessibility · Node.js · Cascading Style Sheets (CSS) · WordPress · PHP · Bootstrap · Laravel · MySQL · JavaScript
 * Team Leader
-  * Studio Visual
+  * Studio Visual · Full-time
   * Jan 2020 - Present
-    * Gestão de times, projetos e liderança técnica.
+  * **Skills**: MySQLi · CodeIgniter · React.js · Next.js · jQuery · GatsbyJS · Vue.js · SASS · LESS (Stylesheet Language) · Tailwind CSS · styled-components · Accessibility · Node.js · Cascading Style Sheets (CSS) · WordPress · PHP · Bootstrap · Laravel · MySQL · JavaScript
 
 <!--
 * Summer 2015: Research Assistant
@@ -88,6 +87,7 @@ Skills
   * Codeigniter
 * Database
   * MySQL
+  * MySQLi
   * MariaDB
 
 <!--
