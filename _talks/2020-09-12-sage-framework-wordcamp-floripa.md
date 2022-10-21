@@ -1,5 +1,5 @@
 ---
-title: "Sage Framework - The best of PHP in one place at WordCamp Floripa 2021 - 2ª day"
+title: "Sage Framework - The best of PHP in one place"
 collection: talks
 type: "Talk"
 permalink: /talks/2020-09-12-sage-framework-wordcamp-floripa
