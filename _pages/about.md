@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Father, Caffeine to Code Converter, Corinthians fan, Magic The Gathering Player, Audio Visual Enthusiast, American Sports Fan and Cap Collector."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
