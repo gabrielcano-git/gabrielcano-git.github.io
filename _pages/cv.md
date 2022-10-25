@@ -89,6 +89,11 @@ Skills
   * MySQL
   * MySQLi
   * MariaDB
+* Infra
+  * Linux
+  * Nginx
+  * Apache
+  * Docker
 
 <!--
 Publications
